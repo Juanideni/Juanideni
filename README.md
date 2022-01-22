@@ -1,19 +1,19 @@
 ### Hi there 👋👋
 
 <h1>I'm Juani, from Argentina! Nice to meet you </h1>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Trainee Front End Developer...<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
+<p><em>Trainee Front End Developer...💻♥</br></p>
 
 
 ### A little more about me...  
 
 ```javascript
 const juani = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, ReactJs],
+  code: [Javascript, Typescript, HTML, CSS, Bootstrap, ReactJs],
   passions: [web development, front-end, learning],
   seniority: "Trainee", 
   hobbies: [sports, coding, videogames],
+  status: "Unemployed",
+  objective: "Apply to Front-End Bootcamp remotely"
   
 }
 ```

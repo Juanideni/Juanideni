@@ -21,7 +21,7 @@ const juani = {
   
 }
 ```
-You cand find me 🌎:
+### You can find me 🌎:
 
 - [Instagram](https://www.instagram.com/juanideni11/)
 - [Twitter](https://www.twitter.com/JuaniDeni11/)
@@ -29,6 +29,10 @@ You cand find me 🌎:
 - [Spotify](https://open.spotify.com/user/juanidenipoti11?si=da2bc4088ccd47fd)
 - [Discord](https://discord.com/users/573931449569509406)
 
+### Currently learning...
+
+- English (B2) - Upper-Intermediate
+- ReactJs - Doing some projects with API REST
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 

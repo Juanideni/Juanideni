@@ -1,6 +1,6 @@
 ### Hi there 👋👋
 
-![Banner GitHub](https://user-images.githubusercontent.com/62517692/150654295-735ed722-cf62-4676-af01-b67a5c8de5df.png)
+![Banner GitHub](https://www.canva.com/design/DAE2M-79Eak/nhvgXDP5iWvOSmKxGqOhNQ/edit?utm_content=DAE2M-79Eak&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 

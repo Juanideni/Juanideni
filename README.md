@@ -17,8 +17,7 @@ const juani = {
   seniority: "Trainee", 
   hobbies: [sports, coding, videogames],
   status: "Unemployed",
-  objective: "Apply to Front-End Bootcamp remotely"
-  
+  objective: "Apply to Front-End Bootcamp remotely",
 }
 ```
 ### You can find me 🌎:

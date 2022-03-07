@@ -1,6 +1,6 @@
 ### Hi there 👋👋
 
-![Banner GitHub](https://www.canva.com/design/DAE2M-79Eak/nhvgXDP5iWvOSmKxGqOhNQ/edit?utm_content=DAE2M-79Eak&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Copia de JUAN IGNACIO DENIPOTI](https://user-images.githubusercontent.com/62517692/157113109-2f5041e0-4f92-4ed2-8f80-3b410a4fc9da.png)
 
 
 

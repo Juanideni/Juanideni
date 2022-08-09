@@ -5,19 +5,17 @@
 
 
 <h1>I'm Juani, from Argentina! Nice to meet you </h1>
-<p><em>Trainee Front End Developer...💻♥</br></p>
+<p><em>Full Stack Developer...💻♥</br></p>
 
 
 ### A little more about me...  
 
 ```javascript
 const juani = {
-  code: [Javascript, Typescript, Html, Css, Bootstrap, ReactJs],
-  passions: [web development, front-end, learning],
+  code: [Javascript, Typescript, Html, Css, Bootstrap, ReactJs, C#],
+  passions: [web development, learning],
   seniority: "Trainee", 
   hobbies: [sports, coding, videogames],
-  status: "Unemployed",
-  objective: "Apply to Front-End Bootcamp remotely",
 }
 ```
 ### You can find me 🌎:
@@ -28,10 +26,10 @@ const juani = {
 - [Spotify](https://open.spotify.com/user/juanidenipoti11?si=da2bc4088ccd47fd)
 - [Discord](https://discord.com/users/573931449569509406)
 
-### Currently learning...
+### Currently...
 
 - English (B2) - Upper-Intermediate
-- ReactJs - Doing some projects with API REST
+- Working at Trizap Software as Trainee Full Stack Developer
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 

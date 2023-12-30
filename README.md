@@ -12,10 +12,10 @@
 
 ```javascript
 const juani = {
-  code: [Javascript, Typescript, Html, Css, Bootstrap, ReactJs, C#],
-  passions: [web development, learning],
-  seniority: "Trainee", 
-  hobbies: [sports, coding, videogames],
+  code: ["JavaScript", "TypeScript", "Html", "Css", "Bootstrap", "ReactJs", "C#", ".NET", "SQL", "Node.Js", "MongoDB"],
+  passions: ["web development", "learning"],
+  seniority: "Junior", 
+  hobbies: ["sports", "coding", "videogames", "meet w/ friends"],
 }
 ```
 ### You can find me 🌎:
